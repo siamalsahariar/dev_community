@@ -120,7 +120,7 @@ const CreatePage = () => {
             <div className="registration__hr">
               <span className="registration__hr-label">
                 Already have an account?
-                <a href="/login"> Log in</a>.
+                <Link href="/login"> Log in</Link>.
               </span>
             </div>
           </div>
